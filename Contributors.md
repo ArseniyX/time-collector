@@ -39,6 +39,8 @@
 
 - **[aks775](https://github.com/aks775)**
 
+- **[aks775](https://github.com/aks775)**
+
 -[@ashtheyogi](https://github.com/Ashtheyogi)
 
 - **[mortenkos](https://github.com/mortenkos)**
@@ -59,4 +61,4 @@
 
 - **[Bhorlarh](https://github.com/Bhorlarh)**
 
-- **[phat-marc](https://github.com/phat-marc)**
+- **[ArseniyX](https://github.com/ArseniyX)**
