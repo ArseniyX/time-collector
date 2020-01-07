@@ -60,3 +60,5 @@
 - **[Bhorlarh](https://github.com/Bhorlarh)**
 
 - **[phat-marc](https://github.com/phat-marc)**
+
+- **[ArseniyX](https://github.com/ArseniyX)**
